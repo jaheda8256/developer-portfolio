@@ -160,6 +160,8 @@ font-weight: 700;
  .resume-item-description, .resume-item-institute{
     color: #757575;
  }
- /* .download-cv{
+
+ .download-cv{
     text-align: center;
- } */
+    margin-top: 50px;
+ }
